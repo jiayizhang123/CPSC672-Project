@@ -10,3 +10,4 @@ The network is constructed as a weighted undirected graph with bike stations as 
 This network analysis could provide optimized station placement suggestions for operators and route recommendations for users in Jersey City. Future work could incorporate temporal dynamics or compare with whole New York data for regional differences, aiding sustainable urban planning in suburban areas.
 
 ![alt text](https://github.com/jiayizhang123/CPSC672-Project/blob/main/Community.png?raw=true)
+![alt text](https://github.com/jiayizhang123/CPSC672-Project/blob/main/Hub.png?raw=true)
