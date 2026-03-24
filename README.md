@@ -1,7 +1,7 @@
 # CPSC672-Project
 A Network Analysis of New York Jersey City's Bike Sharing System Bike-sharing systems like Citibike in Jersey City represent complex networks where stations act as nodes and user trips form connections, providing insights into urban mobility patterns in a smaller, more localized setting compared to larger cities.
 
- #A Network Analysis of New York Jersey City's Bike Sharing System
+ #A  Network Analysis of New York Jersey City's Bike Sharing System
 
 This project analyzes the Citibike trip data from February 2024 to understand the network's topology, community structure, and deviations from randomness. The domain focuses on transportation networks, addressing the problem of identifying efficient usage patterns and potential bottlenecks in a regional public transit supplement.
 
